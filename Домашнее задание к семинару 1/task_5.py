@@ -8,3 +8,4 @@ coordinate_YB = float(input('Ведите координату Y точки B: '
 distance = round(((coordinate_XA - coordinate_XB)**2 + (coordinate_YA - coordinate_YB)**2)**0.5 ,3)
 print(f'Растояние от точки A до точки B = {distance}')
 
+
